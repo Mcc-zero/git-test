@@ -9,5 +9,6 @@ public class java {
         System.out.println("hell w ww ");
         System.out.println("hell w ww ");
         System.out.println("push");
+        System.out.println("pull")
     }
 }
